@@ -3,9 +3,9 @@
 
 ### Screenshot
 
-![](./Screenshot/Welcome to Simonfy-1.png)
-![](./Screenshot/Welcome to Simonfy-2.png)
-![](./Screenshot/Welcome to Simonfy-3.png)
+![](./Screenshot/Simonfy-1.png)
+![](./Screenshot/Simonfy-2.png)
+![](./Screenshot/Simonfy-3.png)
 
 
 ### Built with
