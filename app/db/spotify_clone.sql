@@ -187,7 +187,7 @@ CREATE TABLE IF NOT EXISTS `playlists` (
   `name` varchar(250) COLLATE utf8_unicode_ci NOT NULL,
   `userId` int(11) NOT NULL,
   `dateCreated` date NOT NULL,
-  `playlistImg` text COLLATE utf8_unicode_ci NOT NULL DEFAULT '246x0w.png',
+  `playlistImg` varchar(500) COLLATE utf8_unicode_ci NOT NULL DEFAULT '246x0w.png',
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=20 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
