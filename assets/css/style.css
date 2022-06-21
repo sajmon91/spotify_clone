@@ -410,6 +410,11 @@ body {
 	border-radius: 50%;
 	background-color: rgb(52, 87, 178, .3);
 }
+
+.aldminLoginInfo{
+	font-size: 1.3rem;
+}
+
 @media (max-width: 900px) {
 	.join-main-section {
 		flex-direction: column;

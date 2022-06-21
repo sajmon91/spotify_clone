@@ -63,6 +63,7 @@
         <div class="hasAccountText">
           Don`t have account yet? Signup<span id="hideLogin"> here.</span>
         </div>
+        <p class="aldminLoginInfo">login as admin: username - sajmon91 password - 123456</p>
 
       </form>
       <!-- end login form -->
