@@ -9,10 +9,10 @@ if($_SERVER['SERVER_NAME'] == "localhost")
     define('DB_PASS', '');
     define('DB_NAME', 'spotify_clone');
 }else{
-    define('DB_HOST', 'remotemysql.com');
-    define('DB_USER', '6jQAwTiyjt');
-    define('DB_PASS', 'IiaNcZv0Hc');
-    define('DB_NAME', '6jQAwTiyjt');
+    define('DB_HOST', 'sql.freedb.tech');
+    define('DB_USER', 'freedb_sajmon');
+    define('DB_PASS', '4eVKqHkXCH#73?Y');
+    define('DB_NAME', 'freedb_simonfy');
 }
 
 
